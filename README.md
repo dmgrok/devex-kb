@@ -21,7 +21,7 @@ DevEx is to developers what User Experience (UX) is to end-users. Just as poor U
 
 ## Top 10 Signs Your DevEx Needs Improvement
 
--> insert image
+![DevEx Top 10 smells](devex_smells.png)
 
 ## Core Components of Good DevEx
 
