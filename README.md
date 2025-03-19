@@ -64,7 +64,7 @@ DevEx is to developers what User Experience (UX) is to end-users. Just as poor U
 
 > You can evaluate each wheel, bolt, screw of the car but at the end of the day, what your clients will care about is how fast and for how long the car can drive!
 
-The same applies to DevEx, focus on the end result and measure the not more, not less than what you need.
+The same applies to DevEx, focus on the end result and measure not more, not less than what you need.
 
 ### Qualitative Measures
 
